@@ -95,9 +95,9 @@ repeat task.wait() until keyOk == true
 -- 👉 DÁN CODE CHÍNH CỦA BẠN NGAY DƯỚI DÒNG NÀY 👇
 ------------------------------------------------------
 -- ↓ TOÀN BỘ CODE CỦA BẠN (bắt đầu từ dòng: local ScreenGui = Instance-- this script created at https://hoannhatz.github.io/ezscript
-getgenv().ScriptTitle = "kiki hud"
-getgenv().ScriptSubTitle = "v 1.0.0"
-getgenv().ScriptImage = "IMAGE_URL_HERE"
-getgenv().ScriptAuthorName = "By emhangpham"
+getgenv().ScriptTitle = "bã mía hud"
+getgenv().ScriptSubTitle = "v.1.0.2"
+getgenv().ScriptImage = "https://i.ibb.co/H5YKCyg/IMG-0559.jpg"
+getgenv().ScriptAuthorName = "by emhangpham"
 getgenv().ScriptAuthorSubTitle = "https://discord.gg/7EhAKDJTT"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/hoannhatz/Script/refs/heads/main/EZScript.lua"))()
